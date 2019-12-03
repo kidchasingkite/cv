@@ -1,0 +1,120 @@
+.btn:hover {
+  color: #30e3cb;
+}
+
+hr {
+  border: dotted #EAF6F6 6px;
+  width: 80%;
+}
+
+p {
+  line-height: 2;
+}
+
+body {
+  color: #40514E;
+  margin: 0;
+  text-align: center;
+  font-family: 'Merriweather', serif;
+}
+
+h1 {
+  color: #66BFBF;
+  font-size: 90px;
+  margin: 50px auto 0 auto;
+  font-family: 'Sacramento', cursive;
+}
+
+h2 {
+  color: #66BFBF;
+  font-family: 'Merriweather', serif;
+  font-size: 2.5rem;
+  font-weight: normal;
+  padding-bottom: 10px;
+}
+
+h3 {
+  color: #11999E;
+  font-family: 'Merriweather', serif;
+}
+
+.top-container {
+  background-color: #E4F9F5;
+  position: relative;
+  padding-top: 100px;
+  line-height: 2;
+}
+
+.cat {
+  border-radius: 50%;
+}
+
+.skill-row {
+  width: 50%;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.pro {
+  text-decoration: underline;
+}
+
+.top-cloud {
+  position: absolute;
+  right: 300px;
+  top: 40px;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 250px;
+  bottom: 300px;
+}
+
+.one {
+  width: 25%;
+  float: left;
+  margin-right: 30px;
+}
+
+.done {
+  width: 25%;
+  float: right;
+  margin-left: 30px;
+}
+
+.middle-container {
+  margin: 100px 0;
+}
+
+.a {
+  text-align: center;
+}
+
+a {
+  color: #1f628d;
+  font-family: 'Montserrat', sans-serif;
+  margin: 10px 20px;
+  text-decoration: none;
+}
+
+a:hover{
+  color: #EAF6F6;
+}
+
+.intro {
+  width: 30%;
+  margin: auto;
+}
+
+.bottom-container {
+  background-color: #30e3cb;
+  padding: 50px 0 20px;
+}
+
+.copy {
+  color: #EAF6F6;
+  font-size: 0.75rem;
+  padding: 20px 0;
+}
